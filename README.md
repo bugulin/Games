@@ -1,6 +1,6 @@
 # Games
 My games
 Compiling:
-<code>
+<pre>
 g++ main.cpp -std=c++11 -o main
-</code>
+</pre>
